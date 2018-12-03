@@ -10,5 +10,7 @@ Uses winston for logging.
 
 Uses jest for testing.
 
+Uses eslint and airbnb's style guide for linting.
+
 There is a lot of room for improvement.
 
